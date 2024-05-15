@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {
-      "CalculatorLibrary/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/CalculatorLibrary.dll": {}
-        }
-      }
-    }
+    "net8.0": {}
   },
-  "libraries": {
-    "CalculatorLibrary/1.0.0": {
-      "type": "project",
-      "path": "../ClassLibrary1/CalculatorLibrary.csproj",
-      "msbuildProject": "../ClassLibrary1/CalculatorLibrary.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    "net8.0": [
-      "CalculatorLibrary >= 1.0.0"
-    ]
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\nouno\\.nuget\\packages\\": {}
@@ -32,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\Calculator.csproj",
-      "projectName": "Calculator",
-      "projectPath": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\CalculatorLibrary.csproj",
+      "projectName": "CalculatorLibrary",
+      "projectPath": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\CalculatorLibrary.csproj",
       "packagesPath": "C:\\Users\\nouno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nouno\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -50,11 +31,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\CalculatorLibrary.csproj": {
-              "projectPath": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\CalculatorLibrary.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

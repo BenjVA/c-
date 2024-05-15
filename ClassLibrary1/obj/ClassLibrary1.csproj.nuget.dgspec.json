@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\ConsoleApp1.csproj": {}
+    "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\ClassLibrary1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\ClassLibrary1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\ConsoleApp1.csproj",
-        "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\ClassLibrary1.csproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\ClassLibrary1.csproj",
         "packagesPath": "C:\\Users\\nouno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\nouno\\Documents\\c#\\ClassLibrary1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nouno\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4Nk26IOe18GYoJZWJIy0yBZ79BR4r77L2wnKhKKgXBnQ+vkh+G8NN0Oogoa7BHpkJ7zV+6MNHyyETDKckDsXjA==",
+  "dgSpecHash": "4xg1OiXPN3R7qav3pPq+MnYBENa3ceT7FkV0x5YqSVA7bz2m1l6JLh34pb60SNabBY5lD+zGntB34eKzrJlV4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\ConsoleApp1.csproj",
+  "projectFilePath": "C:\\Users\\nouno\\Documents\\c#\\ConsoleApp1\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
